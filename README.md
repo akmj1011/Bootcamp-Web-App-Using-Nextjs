@@ -1,6 +1,7 @@
 # 🌐 Domain & Web Operations Dashboard – Intern Project
 **Tech Stack:** 
 Next.js
+-
 React.js
 Node.js
 Tailwind CSS
